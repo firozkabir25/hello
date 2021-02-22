@@ -1,0 +1,1 @@
+<h1>Hello</h1><?php /**PATH /opt/lampp/htdocs/active/resources/views/backend/customer_wallet/wallet_setting.blade.php ENDPATH**/ ?>
